@@ -40,5 +40,15 @@ public class Topic2_Browser {
 		
 		driver.quit();
 	}
+	@Test
+		public void TC4_Edge_2() {
+			System.setProperty("webdriver.edge.driver", ".\\BrowserDrivers\\chromedriver.exe");
+			
+			driver = new EdgeDriver();
+			
+			driver.get("https://google.com");
+			
+			driver.quit();
+	}
 	
 }
