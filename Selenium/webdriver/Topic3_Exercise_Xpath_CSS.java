@@ -26,7 +26,7 @@ public class Topic3_Exercise_Xpath_CSS {
 	}
 	public String generateEmail() {
 		Random ran = new Random();
-		return "duykhangkma" + ran.nextInt(99999) + "@gmail.com";
+		return "vanduckma" + ran.nextInt(99999) + "@gmail.com";
 	}
 	@Test
 	public void TC1_Login_With_Empty_User_And_PassWord() {
