@@ -6,7 +6,7 @@ import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.testng.annotations.Test;
 
-public class Topic2_Browser {
+public class Topic02_Browser {
 	WebDriver driver;
 	String projectFolder = System.getProperty("user.dir");
 

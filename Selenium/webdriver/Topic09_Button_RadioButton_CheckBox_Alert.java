@@ -13,7 +13,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.AfterClass;
 
-public class Topic9_Button_RadioButton_CheckBox_Alert {
+public class Topic09_Button_RadioButton_CheckBox_Alert {
 	String projectFolder = System.getProperty("user.dir");
 	WebDriver driver;
 	By userBy = By.id("login_username");

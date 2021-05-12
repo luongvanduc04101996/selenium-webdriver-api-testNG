@@ -6,7 +6,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.testng.annotations.Test;
 
-public class Topic3_Xpath_CSS {
+public class Topic03_Xpath_CSS {
 	
 	WebDriver driver;
 	@Test

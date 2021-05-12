@@ -12,7 +12,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 import org.testng.Assert;
 import org.testng.annotations.AfterClass;
 
-public class Topic6_Handle_Textbox_TextArea {
+public class Topic06_Handle_Textbox_TextArea {
 	WebDriver driver;
 	String email, loginPageURL, userID, passwordID, customerID;
 	String name, dobInput, dobOutput, city, state, pin, phone, address;

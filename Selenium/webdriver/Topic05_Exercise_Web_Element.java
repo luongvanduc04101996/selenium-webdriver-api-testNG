@@ -11,7 +11,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
-public class Topic5_Exercise_Web_Element {
+public class Topic05_Exercise_Web_Element {
 
 	WebDriver driver;
 	By footerMyAccount = By.xpath("//div[@class='footer']//a[@title='My Account']");

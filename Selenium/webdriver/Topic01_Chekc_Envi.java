@@ -10,7 +10,7 @@ import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 
-public class Topic1_Chekc_Envi {
+public class Topic01_Chekc_Envi {
 	WebDriver driver;
 
 	@BeforeClass

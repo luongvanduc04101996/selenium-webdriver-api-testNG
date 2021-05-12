@@ -16,7 +16,7 @@ import org.openqa.selenium.support.ui.Select;
 import org.testng.Assert;
 import org.testng.annotations.AfterClass;
 
-public class Topic7_Handle_Dropdownlist_Default {
+public class Topic07_Handle_Dropdownlist_Default {
 	WebDriver driver;
 	Select select;
 	String firstName, lastName, dayBirth, monthBirth, yearBirth, email, company;

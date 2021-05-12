@@ -12,7 +12,7 @@ import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 
 
-public class Topic4_Excercise_Web_Browser {
+public class Topic04_Excercise_Web_Browser {
 //	String projectFolder = System.getProperty("user.dir");
 	WebDriver driver;
 	@BeforeClass

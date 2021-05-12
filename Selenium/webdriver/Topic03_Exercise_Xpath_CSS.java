@@ -14,7 +14,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 
 
 
-public class Topic3_Exercise_Xpath_CSS {
+public class Topic03_Exercise_Xpath_CSS {
 
 	WebDriver driver;
 	@BeforeClass

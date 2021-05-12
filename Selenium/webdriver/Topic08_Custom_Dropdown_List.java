@@ -17,7 +17,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.Assert;
 import org.testng.annotations.AfterClass;
 
-public class Topic8_Custom_Dropdown_List {
+public class Topic08_Custom_Dropdown_List {
 	WebDriver driver;
 	WebDriverWait explicitWait;
 	String projectFolder = System.getProperty("user.dir");
